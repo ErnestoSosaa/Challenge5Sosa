@@ -9,10 +9,12 @@ At the index the only changes where the copy paste for every single new hour.
 ![image](https://user-images.githubusercontent.com/118238061/211973636-7b2498d5-7d2a-46e1-b04a-fdf0b2cecd82.png)
 
 In the script it was added the date variable, the current hour from date and a for loop to identify every time block.
+
 Inside the for loop it saves the data in local storage for later use.
+
 Inside the loop it identifies each id for display and recognizing the current hour vs id for each block
 
-![image](https://user-images.githubusercontent.com/118238061/211973658-2c7f78f2-57ef-4795-9b32-59477bbfcd0f.png)
+![image](https://user-images.githubusercontent.com/118238061/211973997-3123a270-3549-4324-a3df-bc5cf824a983.png)
 
 Finally the save button for the local storage item input for each hour
  
